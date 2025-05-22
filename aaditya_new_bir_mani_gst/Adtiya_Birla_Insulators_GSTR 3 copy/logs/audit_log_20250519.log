@@ -1,0 +1,112 @@
+UUID: 82669137-2991-47a4-b1b0-58feca2c8e15
+Time: 2025-05-19 19:58:10.392817
+Program Type: GSTR1
+File Name: GSTR20250519_195809.xlsx
+Presigned URL Status: SUCCESS
+Upload Status: SUCCESS
+Activity ID: 57bf5171b1394fa48b4062bbbcaa18d4
+Trigger Ingestion Status: SUCCESS
+Ingestion Status: SUCCESS
+Start Time: 2025-05-19 19:58:09
+End Time: 2025-05-19 19:58:09
+Error Message: GSTR1 process completed successfully
+Program Status: SUCCESS
+==================================================
+UUID: d66625d2-6f80-4848-a148-9fd0e017105b
+Time: 2025-05-19 19:58:11.696149
+Program Type: GSTR2
+File Name: GSTR20250519_195810.xlsx
+Presigned URL Status: SUCCESS
+Upload Status: SUCCESS
+Activity ID: ea9bb90b9019448c9e9c241c7053317b
+Trigger Ingestion Status: SUCCESS
+Ingestion Status: SUCCESS
+Start Time: 2025-05-19 19:58:10
+End Time: 2025-05-19 19:58:10
+Error Message: GSTR2 process completed successfully
+Program Status: SUCCESS
+==================================================
+UUID: 188c97eb-96fe-40f1-997d-fa16d78df428
+Time: 2025-05-19 20:23:36.855460
+Program Type: GSTR1
+File Name: GSTR20250519_202335.xlsx
+Presigned URL Status: SUCCESS
+Upload Status: SUCCESS
+Activity ID: ffa5c62f4d864cfa84b6dfbe03753d9a
+Trigger Ingestion Status: SUCCESS
+Ingestion Status: SUCCESS
+Start Time: 2025-05-19 20:23:35
+End Time: 2025-05-19 20:23:35
+Error Message: GSTR1 process completed successfully
+Program Status: SUCCESS
+==================================================
+UUID: cee769a3-91d6-4b1e-9d93-25e2f79ea32d
+Time: 2025-05-19 20:23:38.157514
+Program Type: GSTR2
+File Name: GSTR20250519_202336.xlsx
+Presigned URL Status: SUCCESS
+Upload Status: SUCCESS
+Activity ID: 4022bf4d8a524103a195e2ac291d1233
+Trigger Ingestion Status: SUCCESS
+Ingestion Status: SUCCESS
+Start Time: 2025-05-19 20:23:36
+End Time: 2025-05-19 20:23:36
+Error Message: GSTR2 process completed successfully
+Program Status: SUCCESS
+==================================================
+UUID: 5c31e93f-3550-4320-a90e-b37926d93185
+Time: 2025-05-19 20:25:13.034196
+Program Type: GSTR1
+File Name: GSTR20250519_202511.xlsx
+Presigned URL Status: SUCCESS
+Upload Status: SUCCESS
+Activity ID: e29d3758869d46b492c33351a162aff2
+Trigger Ingestion Status: SUCCESS
+Ingestion Status: SUCCESS
+Start Time: 2025-05-19 20:25:11
+End Time: 2025-05-19 20:25:11
+Error Message: GSTR1 process completed successfully
+Program Status: SUCCESS
+==================================================
+UUID: 399202d6-762b-4e60-b8bd-ed87ebf11856
+Time: 2025-05-19 20:25:14.128244
+Program Type: GSTR2
+File Name: GSTR20250519_202513.xlsx
+Presigned URL Status: SUCCESS
+Upload Status: SUCCESS
+Activity ID: ddc19bc5007a4d6c90d23790df586b1e
+Trigger Ingestion Status: SUCCESS
+Ingestion Status: SUCCESS
+Start Time: 2025-05-19 20:25:13
+End Time: 2025-05-19 20:25:13
+Error Message: GSTR2 process completed successfully
+Program Status: SUCCESS
+==================================================
+UUID: 0fb18b9b-645d-4422-8077-daaee10d01b6
+Time: 2025-05-19 23:40:21.645311
+Program Type: GSTR1
+File Name: GSTR20250519_234020.xlsx
+Presigned URL Status: SUCCESS
+Upload Status: SUCCESS
+Activity ID: d6dc9bf80fd445008bb8f71fce9988ae
+Trigger Ingestion Status: SUCCESS
+Ingestion Status: SUCCESS
+Start Time: 2025-05-19 23:40:20
+End Time: 2025-05-19 23:40:20
+Error Message: GSTR1 process completed successfully
+Program Status: SUCCESS
+==================================================
+UUID: 2b73e74e-1350-4364-b400-8eb5ecc76423
+Time: 2025-05-19 23:40:22.831161
+Program Type: GSTR2
+File Name: GSTR20250519_234021.xlsx
+Presigned URL Status: SUCCESS
+Upload Status: SUCCESS
+Activity ID: cdc4cb6278784bb89b8e400eb0688076
+Trigger Ingestion Status: SUCCESS
+Ingestion Status: SUCCESS
+Start Time: 2025-05-19 23:40:21
+End Time: 2025-05-19 23:40:21
+Error Message: GSTR2 process completed successfully
+Program Status: SUCCESS
+==================================================
